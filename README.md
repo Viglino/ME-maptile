@@ -1,6 +1,6 @@
 # ME-maptile
 
-* https://github.com/BSData/middle-earth
+* https://github.com/jvangeld/ME-GIS
 * https://github.com/bburns/Arda
 
 ## JPG 
